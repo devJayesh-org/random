@@ -1,3 +1,2 @@
 # random
-randi baaj
-daruaa
+
